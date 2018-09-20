@@ -42,3 +42,6 @@ http://www.tech-coder.com/2017/01/multiple-master-pages-in-angular2-and.html
 
 ## Changing css to SASS
 https://stackoverflow.com/questions/36220256/angular-cli-sass-options
+
+## Lazy loading ngModules - loadChildren in routing
+https://angular.io/guide/lazy-loading-ngmodules

@@ -21,7 +21,7 @@ import { SecureComponent, SecureHeaderComponent, SecureFooterComponent, SecureSi
     PublicFooterComponent,
     SecureFooterComponent,
     SecureHeaderComponent,
-    SecureSidebarComponent
+    SecureSidebarComponent,
   ],
   imports: [
     BrowserModule,
